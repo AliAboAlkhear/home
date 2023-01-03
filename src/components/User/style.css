@@ -1,0 +1,10 @@
+.user {
+  display: flex;
+  float: right;
+ 
+}
+
+.user h2 span {
+    /* float: right; */
+  display: block;
+}
